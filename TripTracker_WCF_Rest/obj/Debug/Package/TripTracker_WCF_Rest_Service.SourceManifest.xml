@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\mark\VisualStudio\TripTracker_WCF_Rest _Service_ursokr\TripTracker_WCF_Rest\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\mark\VisualStudio\TripTracker_WCF_Rest _Service_ursokr\TripTracker_WCF_Rest\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\mark\VisualStudio\TripTracker_WCF_Rest _Service_ursokr\TripTracker_WCF_Rest\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

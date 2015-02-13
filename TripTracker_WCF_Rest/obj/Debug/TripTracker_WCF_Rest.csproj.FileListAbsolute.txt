@@ -1,0 +1,5 @@
+C:\mark\VisualStudio\TripTracker_WCF_Rest\TripTracker_WCF_Rest\bin\TripTracker_WCF_Rest.dll
+C:\mark\VisualStudio\TripTracker_WCF_Rest\TripTracker_WCF_Rest\bin\TripTracker_WCF_Rest.pdb
+C:\mark\VisualStudio\TripTracker_WCF_Rest\TripTracker_WCF_Rest\obj\Debug\TripTracker_WCF_Rest.dll
+C:\mark\VisualStudio\TripTracker_WCF_Rest\TripTracker_WCF_Rest\obj\Debug\TripTracker_WCF_Rest.pdb
+C:\mark\VisualStudio\TripTracker_WCF_Rest\TripTracker_WCF_Rest\obj\Debug\TripTracker_WCF_Rest.csprojResolveAssemblyReference.cache

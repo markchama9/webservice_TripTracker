@@ -1,0 +1,10 @@
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service\TripTracker_WCF_Rest\bin\TripTracker_WCF_Rest.dll
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service\TripTracker_WCF_Rest\bin\TripTracker_WCF_Rest.pdb
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service\TripTracker_WCF_Rest\obj\Debug\TripTracker_WCF_Rest.dll
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service\TripTracker_WCF_Rest\obj\Debug\TripTracker_WCF_Rest.pdb
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service\TripTracker_WCF_Rest\obj\Debug\ResolveAssemblyReference.cache
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service_ursokr\TripTracker_WCF_Rest\bin\TripTracker_WCF_Rest.dll
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service_ursokr\TripTracker_WCF_Rest\bin\TripTracker_WCF_Rest.pdb
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service_ursokr\TripTracker_WCF_Rest\obj\Debug\ResolveAssemblyReference.cache
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service_ursokr\TripTracker_WCF_Rest\obj\Debug\TripTracker_WCF_Rest.dll
+C:\mark\VisualStudio\TripTracker_WCF_Rest _Service_ursokr\TripTracker_WCF_Rest\obj\Debug\TripTracker_WCF_Rest.pdb
